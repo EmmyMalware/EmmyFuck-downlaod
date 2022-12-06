@@ -1,0 +1,9 @@
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\obj\Debug\Phenyldichloroarsine.Properties.Resources.resources
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\obj\Debug\Phenyldichloroarsine.csproj.GenerateResource.cache
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\obj\Debug\Phenyldichloroarsine.csproj.CoreCompileInputs.cache
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\obj\Debug\Phenyldichloroarsine.csproj.AssemblyReference.cache
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\bin\Debug\EmmyFuck.exe.config
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\bin\Debug\EmmyFuck.exe
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\bin\Debug\EmmyFuck.pdb
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\obj\Debug\EmmyFuck.exe
+C:\Users\tanne\source\repos\Phenyldichloroarsine\Phenyldichloroarsine\obj\Debug\EmmyFuck.pdb
