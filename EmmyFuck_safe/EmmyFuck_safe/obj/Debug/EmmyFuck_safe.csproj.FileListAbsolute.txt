@@ -1,0 +1,8 @@
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\bin\Debug\EmmyFuck_safe.exe
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\bin\Debug\EmmyFuck_safe.pdb
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\obj\Debug\EmmyFuck_safe.csproj.AssemblyReference.cache
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\obj\Debug\EmmyFuck_safe.Properties.Resources.resources
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\obj\Debug\EmmyFuck_safe.csproj.GenerateResource.cache
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\obj\Debug\EmmyFuck_safe.csproj.CoreCompileInputs.cache
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\obj\Debug\EmmyFuck_safe.exe
+C:\Users\tanne\source\repos\EmmyFuck_safe\EmmyFuck_safe\obj\Debug\EmmyFuck_safe.pdb
